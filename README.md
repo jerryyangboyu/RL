@@ -18,7 +18,7 @@ The following is my study plan. The dates are milestone deadlines for each task,
 
 ## Writing
 
-After graduating from [UCL Computer Science](https://ucl.ac.uk/computer-science), I realized the importance of communication skills more than ever before. To enhance my skills, I decided to write notes to help me organize my thoughts and communicate with others. These notes will be published as posts in [journals](journals).
+After graduating from [UCL Computer Science](https://ucl.ac.uk/computer-science), I realized the importance of communication skills more than ever before. To enhance my skills, I decided to write notes to help me organize my thoughts and communicate with others. These notes will be published as posts in [journals](notes).
 
 ## Contributing
 
